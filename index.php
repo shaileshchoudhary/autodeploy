@@ -1,4 +1,7 @@
-<body bgcolor=""[Daqua[C[D">
+<?php
+print "hello from php";
+?>
+<body bgcolor="aqua">
 	<h1>test page</h1>
 
 	<p>This is a test page before deployment</p>
